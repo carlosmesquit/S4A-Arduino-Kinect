@@ -6,3 +6,5 @@ Esta atividade pode ser incluída no programa semanal da fisioterapia e assim co
 Outra aplicação será a de incutir nas crianças a curiosidade da área das novas tecnologias, contribuindo assim para transmitir conceitos básicos de lógica ou simplesmente a curiosidade pela área de informática. 
 
 Esta aplicação pode também dar a conhecer o Kinect, o Arduino, o Scratch e também as potencialidades de juntar estas 3 plataformas e criar novas aplicações. 
+
+ver mais em : https://issuu.com/carlosmesquitafoto/docs/relat__rio_finalissimo?e=1228488/36164638
